@@ -11,7 +11,7 @@ This is a newly initialized repository. As the project grows, this document shou
 ```
 /
 ├── CLAUDE.md          # AI assistant guidance (this file)
-└── (empty — awaiting initial project setup)
+└── .mcp.json          # MCP server configuration
 ```
 
 ## Development Workflow
