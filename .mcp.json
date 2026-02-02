@@ -5,7 +5,7 @@
       "command": "npx",
       "args": ["-y", "slack-mcp-server@latest"],
       "env": {
-        "SLACK_MCP_XOXC_TOKEN": "xoxd-uWZzwyJn0jcO1g%2BQRB3jEWzNbkpDKMXLhPBpLsa%2FO9zcE4DLf4Z0xJEap1Fvt0SFopdvqlxP%2FUPQmriTJKg4IsbrLh3QZgC6vEGh2geWztxllOr0m9ZqmcnUbC1Aqh5MkM1pNkDZn%2FXHPrUZukNCYjl7box7p23LiQPGywdl1hwc7aGeCkIqZqzVuXhyKSTgpq6i3LI15pLsT4BRszjkknwDCqg%3D",
+        "SLACK_MCP_XOXC_TOKEN": "xoxc-511986659687-2366028429366-9872334320980-f0e71f3292863cdc234b7e0725cc29f6358a125d313207a4b1169ab3a78149d3",
         "SLACK_MCP_XOXD_TOKEN": "xoxd-uWZzwyJn0jcO1g%2BQRB3jEWzNbkpDKMXLhPBpLsa%2FO9zcE4DLf4Z0xJEap1Fvt0SFopdvqlxP%2FUPQmriTJKg4IsbrLh3QZgC6vEGh2geWztxllOr0m9ZqmcnUbC1Aqh5MkM1pNkDZn%2FXHPrUZukNCYjl7box7p23LiQPGywdl1hwc7aGeCkIqZqzVuXhyKSTgpq6i3LI15pLsT4BRszjkknwDCqg%3D"
       }
     }
