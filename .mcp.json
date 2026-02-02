@@ -1,10 +1,12 @@
 {
   "mcpServers": {
     "slack": {
+      "type": "stdio",
       "command": "npx",
-      "args": ["-y", "slack-mcp-server@latest", "--transport", "stdio"],
+      "args": ["-y", "slack-mcp-server@latest"],
       "env": {
-        "SLACK_MCP_XOXP_TOKEN": "xoxp-..."
+        "SLACK_MCP_XOXC_TOKEN": "xoxd-uWZzwyJn0jcO1g%2BQRB3jEWzNbkpDKMXLhPBpLsa%2FO9zcE4DLf4Z0xJEap1Fvt0SFopdvqlxP%2FUPQmriTJKg4IsbrLh3QZgC6vEGh2geWztxllOr0m9ZqmcnUbC1Aqh5MkM1pNkDZn%2FXHPrUZukNCYjl7box7p23LiQPGywdl1hwc7aGeCkIqZqzVuXhyKSTgpq6i3LI15pLsT4BRszjkknwDCqg%3D",
+        "SLACK_MCP_XOXD_TOKEN": "xoxd-uWZzwyJn0jcO1g%2BQRB3jEWzNbkpDKMXLhPBpLsa%2FO9zcE4DLf4Z0xJEap1Fvt0SFopdvqlxP%2FUPQmriTJKg4IsbrLh3QZgC6vEGh2geWztxllOr0m9ZqmcnUbC1Aqh5MkM1pNkDZn%2FXHPrUZukNCYjl7box7p23LiQPGywdl1hwc7aGeCkIqZqzVuXhyKSTgpq6i3LI15pLsT4BRszjkknwDCqg%3D"
       }
     }
   }
